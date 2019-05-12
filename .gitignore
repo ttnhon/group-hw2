@@ -1,0 +1,8 @@
+/bin
+/Libs/Temp*.groovy
+/Reports
+/.svn
+.settings
+.classpath
+debug.log
+*.access
