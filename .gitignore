@@ -6,3 +6,8 @@
 .classpath
 debug.log
 *.access
+/bin/
+/Libs/
+/.settings/
+/.classpath
+.svn/
