@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Subscribe post</description>
+   <name>SubscribedPost01</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>559f69d4-78db-4dd6-b205-f372df1b0556</testCaseGuid>
+</TestCaseEntity>

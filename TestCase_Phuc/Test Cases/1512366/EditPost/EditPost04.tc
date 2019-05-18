@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Main textarea  is empty
+Option is empty</description>
+   <name>EditPost04</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8eb4446c-595a-4ebd-9fe3-8947a62ac6df</testCaseGuid>
+</TestCaseEntity>
