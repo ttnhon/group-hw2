@@ -1,9 +1,10 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
    <description></description>
    <name>group-hw2</name>
    <tag></tag>
-   <UUID>3792f3d0-1d90-4d28-97a0-545ed67ce564</UUID>
+   <UUID>85e5a765-3c08-4076-ae73-e038a2c37378</UUID>
    <migratedVersion>5.9.0</migratedVersion>
    <pageLoadTimeout>0</pageLoadTimeout>
    <sourceContent>
@@ -26,3 +27,4 @@
    </sourceContent>
    <type>GENERIC</type>
 </Project>
+
